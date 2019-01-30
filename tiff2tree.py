@@ -1,4 +1,3 @@
-
 # -------------------------------------------------------------------------
 # Tree classification with GDAL and scikit image. Written by Anne Schwenker
 # and Shantal Taveras for GTECH734 Geo Web Services at Hunter College 2017.
